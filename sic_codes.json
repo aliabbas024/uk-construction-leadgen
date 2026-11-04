@@ -1,0 +1,37 @@
+{
+  "core_construction": [
+    "41100",
+    "41201",
+    "41202",
+    "42110",
+    "42120",
+    "42130",
+    "42210",
+    "42220",
+    "42910",
+    "42990",
+    "43110",
+    "43120",
+    "43130",
+    "43210",
+    "43220",
+    "43290",
+    "43310",
+    "43320",
+    "43330",
+    "43341",
+    "43342",
+    "43390",
+    "43910",
+    "43991",
+    "43999"
+  ],
+  "adjacent_architecture_engineering": [
+    "71111",
+    "71112",
+    "71121",
+    "71122",
+    "71129"
+  ],
+  "notes": "Core list focuses on construction, civil engineering, building development and specialist trades. Adjacent architecture/engineering codes are optional and should be kept in a separate segment."
+}
